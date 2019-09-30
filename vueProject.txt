@@ -1,0 +1,7 @@
+创建vue项目
+1.安装 npm install vue-cli -g
+
+2.初始化 vue init webpack  然后有一系列问题，按提示走
+  npm install vue-router --save
+  npm install vuex --save
+  npm install  vue-resource
